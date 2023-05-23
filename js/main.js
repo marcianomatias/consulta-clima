@@ -1,4 +1,4 @@
-const apikey = "a1ea9e4ffe87b595d6201dd44ac9e925";
+const apikey = "SUA_CHAVE_DE_API";
 
 const input = document.querySelector("input");
 const button = document.querySelector("button");
