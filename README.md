@@ -45,7 +45,7 @@ Este aplicativo foi desenvolvido por Marciano Matias. Você pode entrar em conta
 
 Contribuições são bem-vindas! Se você encontrar algum problema, bug ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue neste repositório.
 
-## Licença
+## Licença 
 
 Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade para usar e modificar o código de acordo com suas necessidades.
 
