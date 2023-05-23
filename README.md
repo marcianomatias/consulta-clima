@@ -57,5 +57,7 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se à vontade 
 Espero que este aplicativo seja útil para você! Caso tenha alguma dúvida, fique à vontade para entrar em contato.
 
 ## Imagens do Projeto
-![image]()
-![image]()
+![image](https://github.com/marcianomatias/consulta-clima/blob/main/img/Captura%20de%20tela%20de%202023-05-23%2013-36-31.png)
+![image](https://github.com/marcianomatias/consulta-clima/blob/main/img/Captura%20de%20tela%20de%202023-05-23%2013-36-50.png)
+![image](https://github.com/marcianomatias/consulta-clima/blob/main/img/Captura%20de%20tela%20de%202023-05-23%2013-37-07.png)
+![image](https://github.com/marcianomatias/consulta-clima/blob/main/img/Captura%20de%20tela%20de%202023-05-23%2013-38-05.png)
